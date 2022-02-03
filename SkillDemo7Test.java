@@ -3,6 +3,6 @@ import org.junit.*;
 public class SkillDemo7Test {
     @Test
     public void testTriple(){
-        assertEquals(2, SkillDemo7.triple(2));
+        assertEquals(6, SkillDemo7.triple(2));
     }
 }
